@@ -5,3 +5,5 @@ Este repositório conta com um script que torna possível a análise dos dados d
 O script R utiliza diversas bibliotecas para manipulação e análise de dados, incluindo `censobr`, `arrow`, `dplyr`, `ggplot2`, `readxl`, `purrr`, `sidrar`, entre outras. O objetivo principal é filtrar e organizar dados por município no estado de Santa Catarina, utilizando informações do censo relacionadas a raça/cor da população. O estado pode ser alterado, assim como o município de interesse.
 
 Os resultados da análise podem ser apresentados de forma concisa e visual, utilizando tabelas resumidas ou gráficos, a depender da finalidade da pessoa analisadora.
+
+Para conferir a análise completa, incluindo os outputs gráficos, clique em https://drive.google.com/file/d/125XkGZDTjReuwZL-Tn9aG2BHAPVzLPmW/view. Espero que goste e que seja útil para você!
